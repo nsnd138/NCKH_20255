@@ -1,0 +1,715 @@
+course_id,course_title,subject_area,year,author,total_num_of_pages,language,summary,number_of_hits,format
+TL0001,On tap Thiet ke thuat toan,An toan thong tin,2000,Tran Thi Bao,164,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,274,Paperback
+TL0002,Quan ly chuoi cung ung pro,He thong thong tin,2000,Nguyen Van Anh,439,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,182,Ebook
+TL0003,Thiet ke thuat toan 1,Tri tue nhan tao,2000,Pham Hoang Long,162,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,503,Ebook
+TL0004,Thiet ke thuat toan 2,Tri tue nhan tao,2001,Pham Hoang Long,441,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,631,Paperback
+TL0005,3 buoc Quan ly chuoi cung ung,Kinh te,2000,Tran Minh Duc,207,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,353,Paperback
+TL0006,Bai giang He thong phan tan,An toan thong tin,2000,Hoang Van Chi,69,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,297,Paperback
+TL0007,Huong dan thiet ke co ban,Cong nghe phan mem,2000,Tran Thi Bao,247,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,474,Paperback
+TL0008,Lam chu Python,Cong nghe phan mem,2000,Tran Thi Bao,152,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,451,Paperback
+TL0009,Lam chu Thiet ke vi mach,Dien tu,2000,Nguyen Thi Tuyet,448,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,975,Ebook
+TL0010,Nhung nguy hiem den tu email,An toan thong tin,2000,Pham Hoang Long,253,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,389,Ebook
+TL0011,Thiet ke vi mach co ban,Dien tu,2000,Tran Minh Duc,106,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,718,PDF
+TL0012,Marketing ky thuat so co ban,Quan tri kinh doanh,2000,Tran Thi Bao,500,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,942,Paperback
+TL0013,Bao mat mang va an ninh cho nguoi dung,An toan thong tin,2000,Pham Hoang Long,247,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,304,Paperback
+TL0014,Van hoa doanh nghiep danh cho sinh vien,Quan tri kinh doanh,2000,Tran Thi Bao,283,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,729,Paperback
+TL0015,Tai sao nen hoc Python?,Tri tue nhan tao,2000,Pham Hoang Long,50,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,259,Paperback
+TL0016,Xu ly du lieu,An toan thong tin,2000,Tran Thi Bao,444,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,679,PDF
+TL0017,Hoc cach Quan tri nhan luc,Quan tri kinh doanh,2000,Nguyen Thi Tuyet,433,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,436,Ebook
+TL0018,Dien tu vien thong va nhung dieu ban chua biet,Dien tu,2000,Pham Hoang Long,379,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,318,PDF
+TL0019,Toi la tho dien,Dien tu,2000,Pham Hoang Long,473,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,370,Ebook
+TL0020,Tro thanh ty phu tu ban phan mem,Cong nghe phan mem,2000,Tran Thi Bao,323,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,269,Ebook
+TL0021,Python de lam,Cong nghe phan mem,2000,Tran Thi Bao,462,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,458,Ebook
+TL0022,Quan tri kinh doanh cho nguoi moi,Quan tri kinh doanh,2000,Nguyen Thi Tuyet,331,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,947,Ebook
+TL0023,3 buoc bao mat co ban,An toan thong tin,2000,Pham Hoang Long,184,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,499,Paperback
+TL0024,Thong tin xung quanh la gi,He thong thong tin,2000,Nguyen Van Anh,326,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,947,PDF
+TL0025,Xu ly thong tin muot h?n sunsilk,He thong thong tin,2000,Nguyen Thi Tuyet,384,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,685,Ebook
+TL0026,Ung dung nay xay dung the nao?,Cong nghe phan mem,2000,Nguyen Van Anh,86,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,125,Paperback
+TL0027,Khong phai da cap ma la Marketing,Quan tri kinh doanh,2001,Tran Thi Bao,213,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,854,PDF
+TL0028,Cach tao ra Agentic AI,Tri tue nhan tao,2000,Bui Van Minh,406,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,316,Paperback
+TL0029,Hoc may co ban,Tri tue nhan tao,2000,Le Thi Dao,469,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,992,PDF
+TL0030,Lam chu bo mach,Dien tu,2000,Nguyen Thi Tuyet,255,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,101,PDF
+TL0031,Thiet ke giao dien UI/UX nang cao,Cong nghe phan mem,2001,Tran Thi Bao,350,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,816,PDF
+TL0033,Ung dung IoT trong cuoc song,Dien tu,2000,Pham Hoang Long,411,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,561,Paperback
+TL0034,Ung dung IoT nang cao,Dien tu,2000,Nguyen Thi Tuyet,384,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,794,PDF
+TL0035,Van hoa doanh nghiep nang cao,Kinh te,2000,Nguyen Van Anh,202,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,633,Paperback
+TL0036,Bao mat mang va an ninh co ban,An toan thong tin,2000,Tran Thi Bao,224,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,170,PDF
+TL0037,Bao mat mang va an ninh nang cao,An toan thong tin,2001,Tran Thi Bao,426,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,103,Ebook
+TL0038,Toi da he thong thong tin the nao?,He thong thong tin,2001,Nguyen Thi Tuyet,407,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,417,PDF
+TL0039,Van hoa doanh nghiep phong phu cuc,Kinh te,2000,Bui Van Minh,327,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,616,Paperback
+TL0040,Cach hacker hoat dong,An toan thong tin,2000,Tran Thi Bao,488,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,403,Ebook
+TL0041,Virus la gi?,An toan thong tin,2000,Hoang Van Chi,460,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,148,Ebook
+TL0042,Phong tranh virus,An toan thong tin,2000,Pham Hoang Long,372,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,317,PDF
+TL0043,Van hoa doanh nghiep 2,Kinh te,2001,Nguyen Van Anh,272,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,784,PDF
+TL0044,An toan thong tin 2,An toan thong tin,2001,Tran Thi Bao,55,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,454,PDF
+TL0045,Thiet ke vi mach 2,Dien tu,2001,Nguyen Thi Tuyet,166,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,569,Ebook
+TL0046,Lap trinh web nang cao 1,Cong nghe phan mem,2000,Hoang Van Chi,210,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,188,PDF
+TL0047,Quan tri nhan luc 1,Quan tri kinh doanh,2000,Hoang Van Chi,349,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,254,PDF
+TL0048,Thiet ke giao dien UI/UX 3,Cong nghe phan mem,2002,Tran Thi Bao,337,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,453,PDF
+TL0049,He thong phan tan 2,An toan thong tin,2001,Hoang Van Chi,136,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,488,Paperback
+TL0050,An toan thong tin 1,He thong thong tin,2000,Nguyen Van Anh,385,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,416,Ebook
+TL0051,Bao mat mang va an ninh 3,An toan thong tin,2002,Tran Thi Bao,445,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,311,PDF
+TL0052,Marketing ky thuat so 1,Kinh te,2000,Bui Van Minh,165,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,996,PDF
+TL0053,Khoa hoc du lieu voi Python 1,Tri tue nhan tao,2000,Bui Van Minh,84,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,580,PDF
+TL0054,Marketing ky thuat so 3,Quan tri kinh doanh,2002,Tran Thi Bao,54,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,934,Ebook
+TL0055,Ky thuat mang 1,Dien tu,2000,Tran Minh Duc,325,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,171,Paperback
+TL0056,Bao mat mang va an ninh 1,He thong thong tin,2000,Nguyen Thi Tuyet,87,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,596,Paperback
+TL0057,Quan ly chuoi cung ung 1,He thong thong tin,2000,Nguyen Thi Tuyet,474,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,258,Ebook
+TL0060,An toan thong tin 3,An toan thong tin,2002,Tran Thi Bao,302,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,392,Ebook
+TL0061,Ung dung IoT 2,Dien tu,2001,Nguyen Thi Tuyet,281,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,554,Ebook
+TL0062,Ung dung vi dieu khien 1,Dien tu,2000,Tran Minh Duc,460,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,1000,Ebook
+TL0063,Thiet ke vi mach 1,Dien tu,2000,Pham Hoang Long,368,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,211,PDF
+TL0065,Kinh te so 1,Kinh te,2000,Tran Minh Duc,321,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,324,Paperback
+TL0067,Phat trien ung dung di dong 2,Cong nghe phan mem,2001,Nguyen Van Anh,477,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,689,Ebook
+TL0068,Quan tri kinh doanh 1,Kinh te,2000,Bui Van Minh,213,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,325,PDF
+TL0069,He thong phan tan 1,An toan thong tin,2000,Pham Hoang Long,440,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,443,Paperback
+TL0073,Ung dung IoT 1,An toan thong tin,2000,Hoang Van Chi,191,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,666,Paperback
+TL0074,Quan ly chuoi cung ung 2,He thong thong tin,2001,Nguyen Van Anh,73,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,566,Ebook
+TL0078,Thiet ke thuat toan 3,Tri tue nhan tao,2002,Pham Hoang Long,162,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,232,PDF
+TL0081,Bao mat mang va an ninh 2,He thong thong tin,2001,Nguyen Thi Tuyet,193,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,319,Paperback
+TL0083,Lap trinh Python 2,Cong nghe phan mem,2001,Tran Thi Bao,189,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,862,Ebook
+TL0089,He thong thong tin 3,He thong thong tin,2002,Nguyen Thi Tuyet,250,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,655,Ebook
+TL0090,Van hoa doanh nghiep 1,Quan tri kinh doanh,2000,Nguyen Thi Tuyet,349,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,531,Ebook
+TL0092,Khoa hoc du lieu voi Python 2,Tri tue nhan tao,2001,Le Thi Dao,118,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,687,PDF
+TL0094,Lap trinh Python 3,Cong nghe phan mem,2002,Tran Thi Bao,73,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,921,Paperback
+TL0095,Thiet ke thuat toan 4,Tri tue nhan tao,2003,Bui Van Minh,277,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,806,Ebook
+TL0097,Quan tri nhan luc 2,Kinh te,2001,Nguyen Van Anh,121,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,573,Paperback
+TL0098,An toan thong tin 4,An toan thong tin,2003,Tran Thi Bao,464,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,445,PDF
+TL0102,Marketing ky thuat so 2,Kinh te,2001,Tran Minh Duc,406,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,736,Paperback
+TL0105,Van hoa doanh nghiep 3,Quan tri kinh doanh,2002,Tran Thi Bao,74,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,193,Paperback
+TL0109,Bao mat mang va an ninh 4,An toan thong tin,2003,Tran Thi Bao,449,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,422,PDF
+TL0111,Ky thuat mang 2,An toan thong tin,2001,Pham Hoang Long,289,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,970,Ebook
+TL0113,Quan tri kinh doanh 2,Kinh te,2001,Tran Minh Duc,341,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,793,PDF
+TL0114,Kinh te so 2,Kinh te,2001,Tran Minh Duc,331,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,422,Paperback
+TL0115,Quan tri nhan luc 3,Kinh te,2002,Nguyen Van Anh,70,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,156,PDF
+TL0116,Hoc may 2,Tri tue nhan tao,2001,Le Thi Dao,83,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,904,Paperback
+TL0123,Tri tue nhan tao 1,Tri tue nhan tao,2000,Bui Van Minh,79,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,220,Ebook
+TL0130,Thiet ke thuat toan 5,Tri tue nhan tao,2004,Pham Hoang Long,216,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,732,PDF
+TL0132,Ung dung vi dieu khien 2,Dien tu,2001,Tran Minh Duc,201,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,987,PDF
+TL0133,Ung dung IoT 3,Dien tu,2002,Nguyen Thi Tuyet,313,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,773,PDF
+TL0134,Kinh te so 3,Kinh te,2002,Tran Minh Duc,78,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,261,Paperback
+TL0137,Phat trien ung dung di dong 3,Cong nghe phan mem,2002,Tran Thi Bao,331,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,128,Ebook
+TL0141,Ky thuat mang 3,An toan thong tin,2002,Pham Hoang Long,411,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,567,Ebook
+TL0142,He thong thong tin 1,He thong thong tin,2000,Tran Minh Duc,298,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,978,Paperback
+TL0143,Quan tri nhan luc 4,Kinh te,2003,Nguyen Van Anh,283,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,273,PDF
+TL0154,Marketing ky thuat so 4,Quan tri kinh doanh,2003,Tran Thi Bao,181,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,174,Paperback
+TL0163,Thiet ke thuat toan 6,Tri tue nhan tao,2005,Bui Van Minh,430,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,622,Paperback
+TL0165,He thong phan tan 3,Tri tue nhan tao,2002,Le Thi Dao,375,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,353,Paperback
+TL0169,He thong thong tin 4,He thong thong tin,2003,Nguyen Thi Tuyet,250,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,800,Paperback
+TL0174,Ky thuat mang 4,An toan thong tin,2003,Pham Hoang Long,60,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,796,Paperback
+TL0176,Lap trinh web nang cao 2,Cong nghe phan mem,2001,Tran Thi Bao,351,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,126,Ebook
+TL0179,Tri tue nhan tao 2,Tri tue nhan tao,2001,Bui Van Minh,473,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,994,PDF
+TL0183,Ung dung IoT 4,Dien tu,2003,Nguyen Thi Tuyet,440,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,646,PDF
+TL0187,Phat trien ung dung di dong 4,Cong nghe phan mem,2003,Nguyen Van Anh,445,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,705,PDF
+TL0189,Quan tri kinh doanh 3,Kinh te,2002,Tran Minh Duc,65,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,128,Ebook
+TL0190,Quan ly chuoi cung ung 3,He thong thong tin,2002,Nguyen Van Anh,79,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,902,Paperback
+TL0191,He thong thong tin 2,He thong thong tin,2001,Nguyen Van Anh,97,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,714,Ebook
+TL0198,Ky thuat mang 5,An toan thong tin,2004,Pham Hoang Long,190,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,781,Ebook
+TL0199,Hoc may 3,Tri tue nhan tao,2002,Le Thi Dao,471,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,909,Ebook
+TL0202,Thiet ke thuat toan 7,Tri tue nhan tao,2006,Bui Van Minh,371,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,896,PDF
+TL0205,Phat trien ung dung di dong 5,Cong nghe phan mem,2004,Nguyen Van Anh,236,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,850,Ebook
+TL0206,An toan thong tin 5,An toan thong tin,2004,Tran Thi Bao,466,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,868,PDF
+TL0208,Khoa hoc du lieu voi Python 3,Tri tue nhan tao,2002,Le Thi Dao,406,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,272,PDF
+TL0210,Quan ly chuoi cung ung 4,He thong thong tin,2003,Nguyen Van Anh,319,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,860,Paperback
+TL0212,Quan tri nhan luc 5,Kinh te,2004,Nguyen Van Anh,425,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,632,PDF
+TL0217,Thiet ke thuat toan 8,Tri tue nhan tao,2007,Bui Van Minh,261,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,431,PDF
+TL0218,He thong phan tan 4,Tri tue nhan tao,2003,Le Thi Dao,170,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,180,Ebook
+TL0222,Thiet ke giao dien UI/UX 4,Cong nghe phan mem,2003,Tran Thi Bao,185,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,777,Paperback
+TL0224,Lap trinh Python 4,Cong nghe phan mem,2003,Tran Thi Bao,393,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,378,PDF
+TL0231,Bao mat mang va an ninh 5,He thong thong tin,2004,Nguyen Van Anh,369,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,176,Ebook
+TL0232,Quan tri kinh doanh 4,Kinh te,2003,Tran Minh Duc,110,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,702,Ebook
+TL0237,Quan tri nhan luc 6,Kinh te,2005,Nguyen Van Anh,63,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,201,Ebook
+TL0249,Quan tri du lieu 1,He thong thong tin,2000,Tran Minh Duc,272,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,407,Ebook
+TL0250,Van hoa doanh nghiep 4,Kinh te,2003,Bui Van Minh,498,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,792,Paperback
+TL0256,Khoa hoc du lieu voi Python 4,Tri tue nhan tao,2003,Le Thi Dao,376,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,849,Paperback
+TL0261,Quan tri kinh doanh 5,Kinh te,2004,Tran Minh Duc,493,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,198,Paperback
+TL0265,Lap trinh Python 1,Cong nghe phan mem,2000,Hoang Van Chi,261,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,344,Ebook
+TL0266,Ung dung vi dieu khien 3,Dien tu,2002,Pham Hoang Long,438,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,413,PDF
+TL0267,Van hoa doanh nghiep 5,Kinh te,2004,Bui Van Minh,257,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,346,PDF
+TL0268,He thong phan tan 5,Dien tu,2004,Nguyen Thi Tuyet,274,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,473,Paperback
+TL0273,Lap trinh web nang cao 3,Cong nghe phan mem,2002,Nguyen Van Anh,320,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,838,PDF
+TL0275,Phat trien ung dung di dong 6,Cong nghe phan mem,2005,Nguyen Van Anh,61,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,942,Ebook
+TL0281,Bao mat mang va an ninh 6,He thong thong tin,2005,Nguyen Van Anh,69,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,819,Paperback
+TL0282,Lap trinh Python 5,Cong nghe phan mem,2004,Tran Thi Bao,138,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,605,PDF
+TL0285,Ung dung IoT 5,Dien tu,2004,Nguyen Thi Tuyet,242,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,230,Ebook
+TL0289,Quan tri kinh doanh 6,Kinh te,2005,Tran Minh Duc,442,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,171,Ebook
+TL0294,An toan thong tin 6,He thong thong tin,2005,Nguyen Van Anh,151,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,680,PDF
+TL0309,Bao mat mang va an ninh 7,He thong thong tin,2006,Nguyen Van Anh,420,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,323,PDF
+TL0310,Tri tue nhan tao 3,Tri tue nhan tao,2002,Le Thi Dao,425,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,448,Paperback
+TL0311,Phat trien ung dung di dong 7,Cong nghe phan mem,2006,Nguyen Van Anh,340,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,918,Paperback
+TL0313,Hoc may 4,Tri tue nhan tao,2003,Le Thi Dao,414,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,653,Ebook
+TL0318,Quan tri nhan luc 7,Kinh te,2006,Nguyen Van Anh,437,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,907,Ebook
+TL0330,Quan tri kinh doanh 7,Kinh te,2006,Tran Minh Duc,89,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,178,PDF
+TL0331,Van hoa doanh nghiep 6,Quan tri kinh doanh,2005,Tran Thi Bao,66,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,469,PDF
+TL0337,Van hoa doanh nghiep 7,Kinh te,2006,Bui Van Minh,272,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,929,PDF
+TL0346,Marketing ky thuat so 5,Kinh te,2004,Tran Minh Duc,350,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,364,Paperback
+TL0348,Thiet ke vi mach 3,Dien tu,2002,Pham Hoang Long,361,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,334,Paperback
+TL0351,Ung dung vi dieu khien 4,Dien tu,2003,Pham Hoang Long,482,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,433,PDF
+TL0359,Lap trinh web nang cao 4,Cong nghe phan mem,2003,Nguyen Van Anh,403,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,540,Paperback
+TL0362,Hoc may 1,Tri tue nhan tao,2000,Bui Van Minh,317,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,339,PDF
+TL0365,Ung dung IoT 6,Dien tu,2005,Nguyen Thi Tuyet,75,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,421,Paperback
+TL0366,Khoa hoc du lieu voi Python 5,Cong nghe phan mem,2004,Tran Thi Bao,409,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,809,Paperback
+TL0367,Hoc may 5,Tri tue nhan tao,2004,Le Thi Dao,169,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,679,Paperback
+TL0376,Van hoa doanh nghiep 8,Kinh te,2007,Bui Van Minh,492,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,842,PDF
+TL0380,Quan tri kinh doanh 8,Kinh te,2007,Tran Minh Duc,159,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,591,Paperback
+TL0382,Phat trien ung dung di dong 8,Cong nghe phan mem,2007,Nguyen Van Anh,95,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,338,Ebook
+TL0387,Ky thuat mang 6,An toan thong tin,2005,Pham Hoang Long,86,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,159,Paperback
+TL0389,Ung dung vi dieu khien 5,Dien tu,2004,Pham Hoang Long,475,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,628,PDF
+TL0391,Hoc may 6,Tri tue nhan tao,2005,Le Thi Dao,72,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,757,PDF
+TL0392,An toan thong tin 7,He thong thong tin,2006,Nguyen Van Anh,298,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,434,Ebook
+TL0394,Bao mat mang va an ninh 8,He thong thong tin,2007,Nguyen Van Anh,329,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,101,PDF
+TL0398,Ung dung vi dieu khien 6,Dien tu,2005,Pham Hoang Long,150,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,988,Ebook
+TL0399,Quan tri nhan luc 8,Kinh te,2007,Nguyen Van Anh,396,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,742,Paperback
+TL0405,Quan tri kinh doanh 9,Kinh te,2008,Tran Minh Duc,405,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,337,PDF
+TL0415,Thiet ke giao dien UI/UX 2,Cong nghe phan mem,2001,Nguyen Van Anh,423,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,233,Ebook
+TL0417,Ky thuat mang 7,He thong thong tin,2006,Nguyen Van Anh,455,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,920,PDF
+TL0418,Quan tri du lieu 2,He thong thong tin,2001,Tran Minh Duc,472,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,357,PDF
+TL0420,Lap trinh web nang cao 5,Cong nghe phan mem,2004,Nguyen Van Anh,64,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,826,Paperback
+TL0429,Thiet ke thuat toan 9,Tri tue nhan tao,2008,Bui Van Minh,205,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,895,PDF
+TL0433,He thong phan tan 6,An toan thong tin,2005,Pham Hoang Long,173,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,296,Ebook
+TL0436,Tri tue nhan tao 4,Tri tue nhan tao,2003,Le Thi Dao,407,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,102,PDF
+TL0440,Thiet ke giao dien UI/UX 5,Cong nghe phan mem,2004,Tran Thi Bao,286,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,992,Ebook
+TL0444,Quan ly chuoi cung ung 5,He thong thong tin,2004,Nguyen Van Anh,226,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,305,Ebook
+TL0447,Quan tri nhan luc 9,Kinh te,2008,Nguyen Van Anh,434,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,630,Paperback
+TL0455,Phat trien ung dung di dong 1,Cong nghe phan mem,2000,Hoang Van Chi,366,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,273,Paperback
+TL0457,An toan thong tin 8,An toan thong tin,2007,Tran Thi Bao,119,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,124,Ebook
+TL0461,Van hoa doanh nghiep 9,Kinh te,2008,Bui Van Minh,107,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,584,Paperback
+TL0462,Tri tue nhan tao 5,Tri tue nhan tao,2004,Le Thi Dao,291,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,623,Paperback
+TL0464,Ky thuat mang 8,He thong thong tin,2007,Nguyen Van Anh,407,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,703,PDF
+TL0468,Quan tri nhan luc 10,Kinh te,2009,Nguyen Van Anh,267,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,763,Ebook
+TL0470,Bao mat mang va an ninh 9,He thong thong tin,2008,Nguyen Van Anh,60,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,608,Ebook
+TL0471,Quan tri du lieu 3,He thong thong tin,2002,Tran Minh Duc,139,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,488,PDF
+TL0475,Quan tri kinh doanh 10,Kinh te,2009,Tran Minh Duc,51,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,265,Paperback
+TL0482,Kinh te so 4,Kinh te,2003,Tran Minh Duc,490,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,699,Ebook
+TL0489,Thiet ke thuat toan 10,Tri tue nhan tao,2009,Bui Van Minh,346,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,563,Paperback
+TL0491,Lap trinh web nang cao 6,Cong nghe phan mem,2005,Nguyen Van Anh,458,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,613,Ebook
+TL0494,Quan tri kinh doanh 11,Kinh te,2010,Tran Minh Duc,412,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,828,Paperback
+TL0495,Quan tri kinh doanh 12,Kinh te,2011,Tran Minh Duc,111,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,128,PDF
+TL0505,He thong phan tan 7,An toan thong tin,2006,Pham Hoang Long,483,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,121,PDF
+TL0506,Lap trinh Python 6,Cong nghe phan mem,2005,Tran Thi Bao,115,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,811,Ebook
+TL0507,Ung dung vi dieu khien 7,Dien tu,2006,Pham Hoang Long,77,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,237,Paperback
+TL0509,Kinh te so 5,Kinh te,2004,Tran Minh Duc,110,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,649,Ebook
+TL0513,Khoa hoc du lieu voi Python 6,Cong nghe phan mem,2005,Hoang Van Chi,475,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,419,Ebook
+TL0530,Tri tue nhan tao 6,Tri tue nhan tao,2005,Le Thi Dao,431,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,784,Paperback
+TL0543,Quan tri du lieu 4,He thong thong tin,2003,Tran Minh Duc,445,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,184,Paperback
+TL0553,Lap trinh Python 7,Cong nghe phan mem,2006,Tran Thi Bao,60,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,323,Paperback
+TL0554,He thong phan tan 8,An toan thong tin,2007,Pham Hoang Long,486,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,169,Ebook
+TL0565,Marketing ky thuat so 6,Quan tri kinh doanh,2005,Hoang Van Chi,465,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,145,Ebook
+TL0568,Quan tri nhan luc 11,Kinh te,2010,Nguyen Van Anh,152,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,688,Paperback
+TL0569,Ky thuat mang 9,He thong thong tin,2008,Nguyen Van Anh,392,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,950,Ebook
+TL0571,Bao mat mang va an ninh 10,He thong thong tin,2009,Nguyen Van Anh,53,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,220,Paperback
+TL0573,Ung dung IoT 7,Dien tu,2006,Pham Hoang Long,169,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,188,Ebook
+TL0575,Quan ly chuoi cung ung 6,Kinh te,2005,Nguyen Van Anh,494,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,576,Ebook
+TL0582,Ung dung vi dieu khien 8,Dien tu,2007,Pham Hoang Long,319,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,493,PDF
+TL0584,He thong phan tan 9,An toan thong tin,2008,Pham Hoang Long,409,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,495,PDF
+TL0593,Marketing ky thuat so 7,Quan tri kinh doanh,2006,Hoang Van Chi,126,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,340,Paperback
+TL0598,Quan ly chuoi cung ung 7,Kinh te,2006,Nguyen Van Anh,468,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,333,PDF
+TL0599,Ky thuat mang 10,He thong thong tin,2009,Nguyen Van Anh,247,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,536,PDF
+TL0600,He thong thong tin 5,He thong thong tin,2004,Nguyen Thi Tuyet,313,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,670,Ebook
+TL0616,He thong thong tin 6,He thong thong tin,2005,Nguyen Thi Tuyet,442,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,178,Paperback
+TL0620,Quan ly chuoi cung ung 8,Kinh te,2007,Nguyen Van Anh,291,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,257,PDF
+TL0632,Thiet ke giao dien UI/UX 6,Cong nghe phan mem,2005,Tran Thi Bao,454,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,449,PDF
+TL0635,Thiet ke vi mach 4,Dien tu,2003,Nguyen Thi Tuyet,389,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,300,Ebook
+TL0636,Van hoa doanh nghiep 10,Kinh te,2009,Bui Van Minh,397,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,681,Paperback
+TL0639,Lap trinh web nang cao 7,Cong nghe phan mem,2006,Nguyen Van Anh,343,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,378,PDF
+TL0643,Quan tri du lieu 5,He thong thong tin,2004,Tran Minh Duc,130,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,664,PDF
+TL0644,An toan thong tin 9,An toan thong tin,2008,Tran Thi Bao,326,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,344,PDF
+TL0651,An toan thong tin 10,An toan thong tin,2009,Tran Thi Bao,229,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,564,Ebook
+TL0654,Tri tue nhan tao 7,Tri tue nhan tao,2006,Le Thi Dao,225,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,164,PDF
+TL0656,An toan thong tin 11,An toan thong tin,2010,Tran Thi Bao,83,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,871,Paperback
+TL0660,Thiet ke giao dien UI/UX 7,Cong nghe phan mem,2006,Tran Thi Bao,474,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,422,Ebook
+TL0665,Thiet ke vi mach 5,Dien tu,2004,Tran Minh Duc,182,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,190,Paperback
+TL0672,Ung dung IoT 8,Dien tu,2007,Nguyen Thi Tuyet,421,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,958,Ebook
+TL0678,He thong thong tin 7,He thong thong tin,2006,Nguyen Thi Tuyet,99,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,918,Ebook
+TL0680,Quan tri du lieu 6,He thong thong tin,2005,Tran Minh Duc,240,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,133,PDF
+TL0688,Van hoa doanh nghiep 11,Kinh te,2010,Bui Van Minh,272,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,505,Ebook
+TL0690,Ky thuat mang 11,He thong thong tin,2010,Nguyen Van Anh,295,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,991,Paperback
+TL0695,Lap trinh Python 8,Cong nghe phan mem,2007,Tran Thi Bao,245,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,483,PDF
+TL0704,He thong phan tan 10,An toan thong tin,2009,Pham Hoang Long,279,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,486,Ebook
+TL0706,He thong phan tan 11,An toan thong tin,2010,Pham Hoang Long,75,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,160,Paperback
+TL0710,Kinh te so 6,Quan tri kinh doanh,2005,Nguyen Thi Tuyet,476,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,959,PDF
+TL0718,Phat trien ung dung di dong 9,Cong nghe phan mem,2008,Tran Thi Bao,331,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,683,Ebook
+TL0732,Khoa hoc du lieu voi Python 7,Cong nghe phan mem,2006,Hoang Van Chi,225,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,394,Paperback
+TL0735,Ung dung IoT 9,Dien tu,2008,Nguyen Thi Tuyet,341,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,251,Paperback
+TL0736,Ky thuat mang 12,He thong thong tin,2011,Nguyen Van Anh,207,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,201,Ebook
+TL0738,Ung dung vi dieu khien 9,Dien tu,2008,Pham Hoang Long,485,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,392,PDF
+TL0740,Marketing ky thuat so 8,Quan tri kinh doanh,2007,Tran Thi Bao,129,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,385,PDF
+TL0741,Ung dung vi dieu khien 10,Dien tu,2009,Pham Hoang Long,101,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,886,PDF
+TL0742,Bao mat mang va an ninh 11,He thong thong tin,2010,Nguyen Van Anh,463,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,349,PDF
+TL0744,Phat trien ung dung di dong 10,Cong nghe phan mem,2009,Tran Thi Bao,285,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,995,PDF
+TL0748,He thong thong tin 8,He thong thong tin,2007,Nguyen Thi Tuyet,71,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,538,Ebook
+TL0750,Phat trien ung dung di dong 11,Cong nghe phan mem,2010,Tran Thi Bao,330,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,536,Ebook
+TL0752,Quan tri kinh doanh 13,Kinh te,2012,Tran Minh Duc,497,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,170,Ebook
+TL0753,Thiet ke vi mach 6,Dien tu,2005,Tran Minh Duc,271,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,450,Ebook
+TL0759,Quan tri du lieu 7,He thong thong tin,2006,Tran Minh Duc,499,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,188,Paperback
+TL0761,Lap trinh web nang cao 8,Cong nghe phan mem,2007,Nguyen Van Anh,161,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,681,Ebook
+TL0766,Marketing ky thuat so 9,Quan tri kinh doanh,2008,Tran Thi Bao,442,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,577,Ebook
+TL0768,Marketing ky thuat so 10,Quan tri kinh doanh,2009,Tran Thi Bao,99,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,838,Paperback
+TL0769,Khoa hoc du lieu voi Python 8,Tri tue nhan tao,2007,Bui Van Minh,429,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,169,Ebook
+TL0770,Ung dung vi dieu khien 11,Dien tu,2010,Pham Hoang Long,354,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,785,Paperback
+TL0775,Thiet ke thuat toan 11,Tri tue nhan tao,2010,Bui Van Minh,218,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,165,Paperback
+TL0782,Kinh te so 7,Quan tri kinh doanh,2006,Nguyen Thi Tuyet,274,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,627,PDF
+TL0783,Quan ly chuoi cung ung 9,Kinh te,2008,Nguyen Van Anh,300,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,981,Ebook
+TL0787,Lap trinh Python 9,Cong nghe phan mem,2008,Tran Thi Bao,351,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,432,Paperback
+TL0790,An toan thong tin 12,An toan thong tin,2011,Tran Thi Bao,57,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,890,PDF
+TL0799,Bao mat mang va an ninh 12,He thong thong tin,2011,Nguyen Van Anh,406,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,920,Paperback
+TL0820,Lap trinh web nang cao 9,Cong nghe phan mem,2008,Tran Thi Bao,60,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,120,PDF
+TL0826,Thiet ke vi mach 7,Dien tu,2006,Tran Minh Duc,109,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,693,PDF
+TL0828,Kinh te so 8,Quan tri kinh doanh,2007,Nguyen Thi Tuyet,378,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,814,Paperback
+TL0829,He thong thong tin 9,He thong thong tin,2008,Nguyen Thi Tuyet,464,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,856,Ebook
+TL0830,Phat trien ung dung di dong 12,Cong nghe phan mem,2011,Tran Thi Bao,75,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,331,Ebook
+TL0831,Quan tri du lieu 8,He thong thong tin,2007,Tran Minh Duc,443,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,125,Ebook
+TL0832,Thiet ke vi mach 8,Dien tu,2007,Tran Minh Duc,184,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,400,PDF
+TL0840,Hoc may 7,Tri tue nhan tao,2006,Le Thi Dao,72,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,195,Ebook
+TL0846,Bao mat mang va an ninh 13,He thong thong tin,2012,Nguyen Van Anh,348,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,684,Paperback
+TL0852,Ky thuat mang 13,He thong thong tin,2012,Nguyen Van Anh,80,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,496,Paperback
+TL0856,An toan thong tin 13,An toan thong tin,2012,Tran Thi Bao,238,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,509,Ebook
+TL0863,Phat trien ung dung di dong 13,Cong nghe phan mem,2012,Tran Thi Bao,322,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,891,Ebook
+TL0869,He thong phan tan 12,An toan thong tin,2011,Pham Hoang Long,457,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,447,PDF
+TL0870,Quan tri du lieu 9,He thong thong tin,2008,Tran Minh Duc,175,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,396,PDF
+TL0881,Quan ly chuoi cung ung 10,Kinh te,2009,Nguyen Van Anh,487,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,150,Paperback
+TL0884,Ung dung IoT 10,Tri tue nhan tao,2009,Bui Van Minh,430,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,989,PDF
+TL0887,Lap trinh web nang cao 10,Cong nghe phan mem,2009,Tran Thi Bao,193,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,956,Paperback
+TL0889,Lap trinh web nang cao 11,Cong nghe phan mem,2010,Tran Thi Bao,443,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,932,Paperback
+TL0906,Ung dung IoT 11,Tri tue nhan tao,2010,Bui Van Minh,171,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,138,Ebook
+TL0909,Khoa hoc du lieu voi Python 9,Tri tue nhan tao,2008,Bui Van Minh,245,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,633,PDF
+TL0913,Khoa hoc du lieu voi Python 10,Tri tue nhan tao,2009,Bui Van Minh,259,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,123,Ebook
+TL0923,Khoa hoc du lieu voi Python 11,Tri tue nhan tao,2010,Bui Van Minh,168,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,363,Paperback
+TL0928,Tri tue nhan tao 8,Tri tue nhan tao,2007,Bui Van Minh,118,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,802,Ebook
+TL0941,He thong phan tan 13,An toan thong tin,2012,Pham Hoang Long,440,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,633,Ebook
+TL0952,Khoa hoc du lieu voi Python 12,Tri tue nhan tao,2011,Bui Van Minh,50,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,655,Paperback
+TL0954,Hoc may 8,Tri tue nhan tao,2007,Le Thi Dao,261,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,374,Paperback
+TL0959,Ung dung IoT 12,Tri tue nhan tao,2011,Bui Van Minh,404,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,954,PDF
+TL0966,Quan tri du lieu 10,He thong thong tin,2009,Tran Minh Duc,439,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,790,PDF
+TL0970,Kinh te so 9,Quan tri kinh doanh,2008,Nguyen Thi Tuyet,245,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,420,Ebook
+TL0972,Van hoa doanh nghiep 12,Kinh te,2011,Bui Van Minh,415,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,767,Ebook
+TL0974,Hoc may 9,Tri tue nhan tao,2008,Le Thi Dao,86,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,678,Paperback
+TL0988,Van hoa doanh nghiep 13,Kinh te,2012,Bui Van Minh,475,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,492,PDF
+TL0989,He thong phan tan 14,An toan thong tin,2013,Pham Hoang Long,231,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,634,PDF
+TL0992,Hoc may 10,Tri tue nhan tao,2009,Le Thi Dao,150,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,379,Paperback
+TL0997,Kinh te so 10,Quan tri kinh doanh,2009,Nguyen Thi Tuyet,118,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,584,PDF
+TL1009,Quan tri nhan luc 12,Quan tri kinh doanh,2011,Tran Thi Bao,279,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,442,Paperback
+TL1014,An toan thong tin 14,He thong thong tin,2013,Nguyen Van Anh,113,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,841,PDF
+TL1017,He thong phan tan 15,An toan thong tin,2014,Pham Hoang Long,112,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,331,Paperback
+TL1020,An toan thong tin 15,He thong thong tin,2014,Nguyen Van Anh,115,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,988,Paperback
+TL1022,Marketing ky thuat so 11,Quan tri kinh doanh,2010,Tran Thi Bao,401,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,185,PDF
+TL1025,Khoa hoc du lieu voi Python 13,Tri tue nhan tao,2012,Bui Van Minh,201,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,780,Ebook
+TL1036,Tri tue nhan tao 9,Tri tue nhan tao,2008,Bui Van Minh,380,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,395,PDF
+TL1038,Lap trinh Python 10,Cong nghe phan mem,2009,Tran Thi Bao,179,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,746,PDF
+TL1047,Quan ly chuoi cung ung 11,He thong thong tin,2010,Nguyen Van Anh,260,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,767,Ebook
+TL1058,Thiet ke thuat toan 12,An toan thong tin,2011,Tran Thi Bao,393,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,240,PDF
+TL1061,An toan thong tin 16,He thong thong tin,2015,Nguyen Van Anh,149,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,555,Paperback
+TL1064,Ky thuat mang 14,He thong thong tin,2013,Nguyen Van Anh,228,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,433,Ebook
+TL1065,He thong thong tin 10,He thong thong tin,2009,Nguyen Thi Tuyet,445,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,237,PDF
+TL1066,Thiet ke thuat toan 13,Tri tue nhan tao,2012,Bui Van Minh,180,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,767,Paperback
+TL1069,Ung dung vi dieu khien 12,Dien tu,2011,Pham Hoang Long,314,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,999,Ebook
+TL1070,Marketing ky thuat so 12,Quan tri kinh doanh,2011,Tran Thi Bao,328,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,153,Ebook
+TL1071,He thong phan tan 16,An toan thong tin,2015,Pham Hoang Long,292,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,801,PDF
+TL1072,Phat trien ung dung di dong 14,Cong nghe phan mem,2013,Tran Thi Bao,117,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,505,PDF
+TL1076,Ung dung vi dieu khien 13,Dien tu,2012,Pham Hoang Long,138,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,362,Ebook
+TL1088,Ung dung IoT 13,Dien tu,2012,Nguyen Thi Tuyet,87,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,164,PDF
+TL1090,Quan tri nhan luc 13,Quan tri kinh doanh,2012,Tran Thi Bao,432,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,274,Ebook
+TL1099,Tri tue nhan tao 10,Tri tue nhan tao,2009,Bui Van Minh,120,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,980,Paperback
+TL1102,Thiet ke vi mach 9,Dien tu,2008,Pham Hoang Long,66,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,499,PDF
+TL1103,Bao mat mang va an ninh 14,He thong thong tin,2013,Nguyen Van Anh,322,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,788,Ebook
+TL1113,Lap trinh web nang cao 12,Cong nghe phan mem,2011,Tran Thi Bao,216,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,148,PDF
+TL1114,Phat trien ung dung di dong 15,Cong nghe phan mem,2014,Tran Thi Bao,244,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,244,PDF
+TL1122,Marketing ky thuat so 13,Quan tri kinh doanh,2012,Tran Thi Bao,162,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,299,PDF
+TL1126,Quan ly chuoi cung ung 12,He thong thong tin,2011,Nguyen Van Anh,215,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,523,PDF
+TL1133,He thong phan tan 17,An toan thong tin,2016,Pham Hoang Long,399,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,492,Paperback
+TL1138,Hoc may 11,Tri tue nhan tao,2010,Le Thi Dao,255,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,994,Paperback
+TL1142,Ung dung vi dieu khien 14,Dien tu,2013,Pham Hoang Long,397,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,228,Paperback
+TL1156,Khoa hoc du lieu voi Python 14,Tri tue nhan tao,2013,Bui Van Minh,491,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,405,Ebook
+TL1163,Phat trien ung dung di dong 16,Cong nghe phan mem,2015,Tran Thi Bao,414,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,948,PDF
+TL1168,Thiet ke thuat toan 14,Tri tue nhan tao,2013,Bui Van Minh,332,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,768,PDF
+TL1169,Phat trien ung dung di dong 17,Cong nghe phan mem,2016,Tran Thi Bao,171,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,756,Paperback
+TL1178,Quan tri nhan luc 14,Quan tri kinh doanh,2013,Tran Thi Bao,113,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,721,Ebook
+TL1184,Tri tue nhan tao 11,Tri tue nhan tao,2010,Bui Van Minh,474,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,191,PDF
+TL1186,An toan thong tin 17,He thong thong tin,2016,Nguyen Van Anh,58,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,746,Ebook
+TL1189,Tri tue nhan tao 12,Tri tue nhan tao,2011,Bui Van Minh,476,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,852,PDF
+TL1190,Thiet ke vi mach 10,Dien tu,2009,Tran Minh Duc,328,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,771,Ebook
+TL1199,Van hoa doanh nghiep 14,Quan tri kinh doanh,2013,Nguyen Thi Tuyet,122,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,747,PDF
+TL1203,Quan tri du lieu 11,He thong thong tin,2010,Tran Minh Duc,72,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,343,PDF
+TL1214,Phat trien ung dung di dong 18,Cong nghe phan mem,2017,Tran Thi Bao,341,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,130,PDF
+TL1220,Thiet ke giao dien UI/UX 8,Cong nghe phan mem,2007,Tran Thi Bao,148,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,301,Ebook
+TL1228,Ung dung IoT 14,Tri tue nhan tao,2013,Bui Van Minh,288,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,779,Ebook
+TL1230,He thong phan tan 18,An toan thong tin,2017,Pham Hoang Long,454,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,795,PDF
+TL1232,Ung dung IoT 15,Tri tue nhan tao,2014,Bui Van Minh,427,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,398,PDF
+TL1238,Ung dung vi dieu khien 15,Dien tu,2014,Pham Hoang Long,464,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,447,Paperback
+TL1243,Quan tri du lieu 12,He thong thong tin,2011,Tran Minh Duc,494,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,640,Ebook
+TL1249,Quan ly chuoi cung ung 13,Kinh te,2012,Nguyen Van Anh,149,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,630,Paperback
+TL1252,Thiet ke thuat toan 15,An toan thong tin,2014,Pham Hoang Long,201,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,394,Paperback
+TL1255,An toan thong tin 18,He thong thong tin,2017,Nguyen Van Anh,121,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,104,Ebook
+TL1257,Phat trien ung dung di dong 19,Cong nghe phan mem,2018,Tran Thi Bao,153,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,217,Paperback
+TL1264,Phat trien ung dung di dong 20,Cong nghe phan mem,2019,Tran Thi Bao,440,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,384,PDF
+TL1270,Thiet ke giao dien UI/UX 9,Cong nghe phan mem,2008,Tran Thi Bao,195,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,329,PDF
+TL1274,Marketing ky thuat so 14,Quan tri kinh doanh,2013,Tran Thi Bao,99,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,189,Ebook
+TL1278,Kinh te so 11,Kinh te,2010,Bui Van Minh,110,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,409,Ebook
+TL1283,Lap trinh web nang cao 13,Cong nghe phan mem,2012,Tran Thi Bao,105,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,253,Paperback
+TL1284,Quan ly chuoi cung ung 14,Kinh te,2013,Nguyen Van Anh,179,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,953,Paperback
+TL1285,Thiet ke thuat toan 16,An toan thong tin,2015,Pham Hoang Long,313,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,355,Paperback
+TL1286,Thiet ke giao dien UI/UX 10,Cong nghe phan mem,2009,Tran Thi Bao,159,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,511,PDF
+TL1291,He thong thong tin 11,He thong thong tin,2010,Nguyen Thi Tuyet,268,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,773,PDF
+TL1306,Quan ly chuoi cung ung 15,Kinh te,2014,Nguyen Van Anh,139,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,513,Ebook
+TL1309,Bao mat mang va an ninh 15,He thong thong tin,2014,Nguyen Van Anh,209,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,968,PDF
+TL1316,Lap trinh web nang cao 14,Cong nghe phan mem,2013,Nguyen Van Anh,288,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,257,Paperback
+TL1321,Quan tri nhan luc 15,Quan tri kinh doanh,2014,Tran Thi Bao,68,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,155,Paperback
+TL1323,An toan thong tin 19,He thong thong tin,2018,Nguyen Van Anh,173,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,655,Paperback
+TL1327,Van hoa doanh nghiep 15,Kinh te,2014,Bui Van Minh,490,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,984,PDF
+TL1329,Marketing ky thuat so 15,Quan tri kinh doanh,2014,Tran Thi Bao,307,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,809,Paperback
+TL1334,Thiet ke vi mach 11,Dien tu,2010,Tran Minh Duc,80,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,193,Paperback
+TL1337,Quan tri nhan luc 16,Quan tri kinh doanh,2015,Tran Thi Bao,490,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,648,PDF
+TL1338,Bao mat mang va an ninh 16,He thong thong tin,2015,Nguyen Van Anh,306,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,255,Ebook
+TL1339,Bao mat mang va an ninh 17,He thong thong tin,2016,Nguyen Van Anh,96,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,685,Ebook
+TL1340,Kinh te so 12,Kinh te,2011,Bui Van Minh,105,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,441,PDF
+TL1344,Kinh te so 13,Kinh te,2012,Bui Van Minh,59,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,893,Paperback
+TL1348,Ky thuat mang 15,He thong thong tin,2014,Nguyen Van Anh,110,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,645,PDF
+TL1350,Ky thuat mang 16,He thong thong tin,2015,Nguyen Van Anh,450,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,146,Paperback
+TL1354,Quan tri du lieu 13,He thong thong tin,2012,Tran Minh Duc,188,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,170,PDF
+TL1355,Phat trien ung dung di dong 21,Cong nghe phan mem,2020,Tran Thi Bao,132,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,538,Paperback
+TL1361,An toan thong tin 20,An toan thong tin,2019,Tran Thi Bao,135,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,382,Ebook
+TL1369,Lap trinh web nang cao 15,Cong nghe phan mem,2014,Nguyen Van Anh,329,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,192,Paperback
+TL1380,Phat trien ung dung di dong 22,Cong nghe phan mem,2021,Tran Thi Bao,184,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,569,PDF
+TL1387,Hoc may 12,Tri tue nhan tao,2011,Le Thi Dao,465,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,502,PDF
+TL1394,Lap trinh web nang cao 16,Cong nghe phan mem,2015,Nguyen Van Anh,129,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,852,Ebook
+TL1395,Quan tri du lieu 14,He thong thong tin,2013,Tran Minh Duc,394,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,823,Ebook
+TL1397,Ung dung vi dieu khien 16,Dien tu,2015,Pham Hoang Long,286,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,895,Paperback
+TL1403,Thiet ke vi mach 12,Dien tu,2011,Tran Minh Duc,89,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,595,PDF
+TL1408,Quan tri kinh doanh 14,Kinh te,2013,Tran Minh Duc,340,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,529,Ebook
+TL1410,Van hoa doanh nghiep 16,Quan tri kinh doanh,2015,Tran Thi Bao,478,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,195,Ebook
+TL1412,Lap trinh Python 11,Cong nghe phan mem,2010,Tran Thi Bao,260,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,531,Ebook
+TL1415,Khoa hoc du lieu voi Python 15,Cong nghe phan mem,2014,Hoang Van Chi,325,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,629,Ebook
+TL1421,Quan tri kinh doanh 15,Kinh te,2014,Tran Minh Duc,145,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,197,Paperback
+TL1436,An toan thong tin 21,An toan thong tin,2020,Tran Thi Bao,264,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,858,Paperback
+TL1445,Lap trinh web nang cao 17,Cong nghe phan mem,2016,Nguyen Van Anh,338,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,133,Paperback
+TL1446,Lap trinh Python 12,Cong nghe phan mem,2011,Tran Thi Bao,174,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,123,Paperback
+TL1453,Kinh te so 14,Kinh te,2013,Bui Van Minh,109,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,695,Paperback
+TL1454,Ung dung IoT 16,Tri tue nhan tao,2015,Bui Van Minh,306,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,608,Ebook
+TL1455,Quan tri kinh doanh 16,Kinh te,2015,Tran Minh Duc,227,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,605,Ebook
+TL1456,Van hoa doanh nghiep 17,Quan tri kinh doanh,2016,Tran Thi Bao,443,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,136,PDF
+TL1467,Phat trien ung dung di dong 23,Cong nghe phan mem,2022,Tran Thi Bao,339,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,183,PDF
+TL1475,Khoa hoc du lieu voi Python 16,Cong nghe phan mem,2015,Hoang Van Chi,250,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,913,PDF
+TL1477,He thong phan tan 19,An toan thong tin,2018,Pham Hoang Long,243,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,351,PDF
+TL1478,He thong phan tan 20,An toan thong tin,2019,Pham Hoang Long,258,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,841,PDF
+TL1482,Thiet ke thuat toan 17,Tri tue nhan tao,2016,Bui Van Minh,357,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,782,PDF
+TL1488,Quan tri nhan luc 17,Quan tri kinh doanh,2016,Tran Thi Bao,272,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,128,Paperback
+TL1493,Thiet ke thuat toan 18,Tri tue nhan tao,2017,Bui Van Minh,401,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,113,Paperback
+TL1498,Marketing ky thuat so 16,Quan tri kinh doanh,2015,Tran Thi Bao,199,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,214,PDF
+TL1511,Quan tri kinh doanh 17,Kinh te,2016,Tran Minh Duc,260,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,592,PDF
+TL1512,Tri tue nhan tao 13,Tri tue nhan tao,2012,Bui Van Minh,65,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,658,PDF
+TL1517,Thiet ke vi mach 13,Dien tu,2012,Tran Minh Duc,262,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,805,Ebook
+TL1522,Van hoa doanh nghiep 18,Quan tri kinh doanh,2017,Tran Thi Bao,62,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,271,PDF
+TL1523,Marketing ky thuat so 17,Quan tri kinh doanh,2016,Tran Thi Bao,151,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,330,Ebook
+TL1526,Thiet ke giao dien UI/UX 11,Cong nghe phan mem,2010,Nguyen Van Anh,307,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,565,Paperback
+TL1531,Thiet ke giao dien UI/UX 12,Cong nghe phan mem,2011,Nguyen Van Anh,394,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,390,Ebook
+TL1545,Quan ly chuoi cung ung 16,Kinh te,2015,Nguyen Van Anh,119,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,792,Paperback
+TL1560,Marketing ky thuat so 18,Quan tri kinh doanh,2017,Tran Thi Bao,391,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,680,Paperback
+TL1575,Phat trien ung dung di dong 24,Cong nghe phan mem,2023,Tran Thi Bao,393,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,776,Ebook
+TL1589,Kinh te so 15,Kinh te,2014,Tran Minh Duc,343,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,588,Paperback
+TL1591,Kinh te so 16,Kinh te,2015,Tran Minh Duc,60,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,411,Ebook
+TL1595,Lap trinh web nang cao 18,Cong nghe phan mem,2017,Nguyen Van Anh,151,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,261,Paperback
+TL1601,An toan thong tin 22,An toan thong tin,2021,Tran Thi Bao,89,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,338,Ebook
+TL1602,Quan tri du lieu 15,He thong thong tin,2014,Tran Minh Duc,340,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,719,Paperback
+TL1603,He thong phan tan 21,An toan thong tin,2020,Pham Hoang Long,130,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,237,Ebook
+TL1604,Phat trien ung dung di dong 25,Cong nghe phan mem,2024,Tran Thi Bao,304,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,908,PDF
+TL1608,Quan tri nhan luc 18,Quan tri kinh doanh,2017,Tran Thi Bao,191,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,949,Ebook
+TL1610,Ung dung vi dieu khien 17,Dien tu,2016,Pham Hoang Long,370,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,345,Ebook
+TL1618,Thiet ke giao dien UI/UX 13,Cong nghe phan mem,2012,Nguyen Van Anh,406,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,500,PDF
+TL1633,Khoa hoc du lieu voi Python 17,Cong nghe phan mem,2016,Hoang Van Chi,280,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,766,Ebook
+TL1635,He thong phan tan 22,An toan thong tin,2021,Pham Hoang Long,230,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,508,PDF
+TL1636,Ung dung vi dieu khien 18,Dien tu,2017,Pham Hoang Long,303,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,903,Paperback
+TL1648,Ung dung IoT 17,Dien tu,2016,Nguyen Thi Tuyet,463,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,226,Paperback
+TL1657,Quan tri kinh doanh 18,Kinh te,2017,Tran Minh Duc,240,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,819,Paperback
+TL1658,Quan tri du lieu 16,He thong thong tin,2015,Tran Minh Duc,215,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,302,Ebook
+TL1659,Lap trinh Python 13,Cong nghe phan mem,2012,Tran Thi Bao,334,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,336,PDF
+TL1672,Quan tri nhan luc 19,Quan tri kinh doanh,2018,Tran Thi Bao,437,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,987,PDF
+TL1677,Khoa hoc du lieu voi Python 18,Cong nghe phan mem,2017,Hoang Van Chi,459,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,516,Ebook
+TL1678,Ky thuat mang 17,He thong thong tin,2016,Tran Minh Duc,324,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,527,Paperback
+TL1679,Lap trinh web nang cao 19,Cong nghe phan mem,2018,Nguyen Van Anh,119,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,659,Paperback
+TL1680,Quan tri nhan luc 20,Quan tri kinh doanh,2019,Tran Thi Bao,500,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,935,Ebook
+TL1682,Tri tue nhan tao 14,Tri tue nhan tao,2013,Pham Hoang Long,312,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,195,Paperback
+TL1686,Lap trinh Python 14,Cong nghe phan mem,2013,Tran Thi Bao,461,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,690,PDF
+TL1687,Thiet ke vi mach 14,Dien tu,2013,Tran Minh Duc,488,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,601,Paperback
+TL1688,Ung dung vi dieu khien 19,Dien tu,2018,Pham Hoang Long,110,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,747,Ebook
+TL1696,Quan tri kinh doanh 19,Kinh te,2018,Tran Minh Duc,56,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,137,PDF
+TL1699,Ung dung vi dieu khien 20,Dien tu,2019,Pham Hoang Long,360,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,731,Ebook
+TL1711,Ung dung IoT 18,Dien tu,2017,Nguyen Thi Tuyet,231,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,827,Paperback
+TL1713,Kinh te so 17,Kinh te,2016,Tran Minh Duc,235,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,506,Ebook
+TL1724,Quan ly chuoi cung ung 17,Quan tri kinh doanh,2016,Tran Thi Bao,58,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,296,Paperback
+TL1727,An toan thong tin 23,An toan thong tin,2022,Tran Thi Bao,455,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,397,Ebook
+TL1733,Hoc may 13,Tri tue nhan tao,2012,Le Thi Dao,94,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,568,Paperback
+TL1742,Quan tri nhan luc 21,Quan tri kinh doanh,2020,Tran Thi Bao,101,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,820,Paperback
+TL1759,Thiet ke thuat toan 19,An toan thong tin,2018,Hoang Van Chi,452,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,150,Ebook
+TL1765,Van hoa doanh nghiep 19,Kinh te,2018,Bui Van Minh,124,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,995,Ebook
+TL1766,Van hoa doanh nghiep 20,Kinh te,2019,Bui Van Minh,467,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,322,Ebook
+TL1769,Lap trinh web nang cao 20,Cong nghe phan mem,2019,Nguyen Van Anh,91,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,733,Paperback
+TL1771,Ung dung IoT 19,Dien tu,2018,Nguyen Thi Tuyet,494,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,994,Ebook
+TL1774,Ung dung IoT 20,Dien tu,2019,Nguyen Thi Tuyet,228,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,311,PDF
+TL1779,Hoc may 14,Tri tue nhan tao,2013,Le Thi Dao,483,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,386,Paperback
+TL1783,Quan tri du lieu 17,He thong thong tin,2016,Tran Minh Duc,440,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,970,Paperback
+TL1789,Van hoa doanh nghiep 21,Kinh te,2020,Bui Van Minh,67,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,947,Ebook
+TL1793,Bao mat mang va an ninh 18,He thong thong tin,2017,Nguyen Van Anh,325,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,189,Ebook
+TL1796,Hoc may 15,Tri tue nhan tao,2014,Le Thi Dao,99,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,513,Ebook
+TL1810,Thiet ke giao dien UI/UX 14,Cong nghe phan mem,2013,Hoang Van Chi,250,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,658,Ebook
+TL1811,Quan tri kinh doanh 20,Kinh te,2019,Tran Minh Duc,409,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,717,Paperback
+TL1820,Khoa hoc du lieu voi Python 19,Cong nghe phan mem,2018,Hoang Van Chi,313,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,248,Paperback
+TL1822,Quan ly chuoi cung ung 18,Quan tri kinh doanh,2017,Hoang Van Chi,353,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,830,Paperback
+TL1823,Marketing ky thuat so 19,Quan tri kinh doanh,2018,Tran Thi Bao,139,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,800,Ebook
+TL1828,Thiet ke thuat toan 20,An toan thong tin,2019,Pham Hoang Long,150,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,298,Paperback
+TL1829,He thong thong tin 12,He thong thong tin,2011,Nguyen Thi Tuyet,303,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,345,PDF
+TL1831,Quan tri du lieu 18,He thong thong tin,2017,Tran Minh Duc,287,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,303,Paperback
+TL1845,Ung dung vi dieu khien 21,Dien tu,2020,Pham Hoang Long,173,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,284,PDF
+TL1850,Van hoa doanh nghiep 22,Kinh te,2021,Bui Van Minh,447,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,948,Paperback
+TL1853,An toan thong tin 24,An toan thong tin,2023,Tran Thi Bao,158,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,392,Paperback
+TL1855,An toan thong tin 25,An toan thong tin,2024,Tran Thi Bao,256,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,523,Ebook
+TL1857,Tri tue nhan tao 15,Tri tue nhan tao,2014,Bui Van Minh,136,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,675,Paperback
+TL1859,Marketing ky thuat so 20,Quan tri kinh doanh,2019,Tran Thi Bao,112,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,428,Ebook
+TL1871,Tri tue nhan tao 16,Tri tue nhan tao,2015,Bui Van Minh,290,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,476,Ebook
+TL1872,Quan ly chuoi cung ung 19,Quan tri kinh doanh,2018,Tran Thi Bao,64,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,123,Paperback
+TL1873,Kinh te so 18,Kinh te,2017,Tran Minh Duc,104,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,455,PDF
+TL1887,Marketing ky thuat so 21,Quan tri kinh doanh,2020,Tran Thi Bao,372,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,212,PDF
+TL1888,Hoc may 16,Tri tue nhan tao,2015,Le Thi Dao,143,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,482,Paperback
+TL1894,Khoa hoc du lieu voi Python 20,Cong nghe phan mem,2019,Hoang Van Chi,404,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,442,Paperback
+TL1896,Van hoa doanh nghiep 23,Kinh te,2022,Bui Van Minh,447,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,953,Ebook
+TL1897,Quan ly chuoi cung ung 20,He thong thong tin,2019,Nguyen Van Anh,376,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,901,Ebook
+TL1904,Thiet ke thuat toan 21,An toan thong tin,2020,Hoang Van Chi,383,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,625,PDF
+TL1908,Ung dung IoT 21,Dien tu,2020,Nguyen Thi Tuyet,324,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,688,Ebook
+TL1918,He thong phan tan 23,An toan thong tin,2022,Pham Hoang Long,102,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,245,PDF
+TL1919,Quan tri nhan luc 22,Quan tri kinh doanh,2021,Tran Thi Bao,415,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,915,Ebook
+TL1920,Thiet ke giao dien UI/UX 15,Cong nghe phan mem,2014,Hoang Van Chi,302,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,313,Paperback
+TL1921,Quan tri du lieu 19,He thong thong tin,2018,Tran Minh Duc,233,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,448,Paperback
+TL1929,Ky thuat mang 18,He thong thong tin,2017,Nguyen Van Anh,254,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,468,Paperback
+TL1931,Ung dung IoT 22,Tri tue nhan tao,2021,Bui Van Minh,321,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,288,PDF
+TL1932,Lap trinh Python 15,Cong nghe phan mem,2014,Tran Thi Bao,285,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,709,Ebook
+TL1933,Quan ly chuoi cung ung 21,He thong thong tin,2020,Nguyen Van Anh,231,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,885,PDF
+TL1939,Ung dung IoT 23,Tri tue nhan tao,2022,Bui Van Minh,245,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,537,PDF
+TL1943,Tri tue nhan tao 17,Tri tue nhan tao,2016,Bui Van Minh,323,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,366,Ebook
+TL1954,He thong phan tan 24,An toan thong tin,2023,Pham Hoang Long,384,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,908,Ebook
+TL1959,Quan ly chuoi cung ung 22,He thong thong tin,2021,Nguyen Van Anh,284,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,480,Ebook
+TL1960,Thiet ke vi mach 15,Dien tu,2014,Tran Minh Duc,472,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,348,Paperback
+TL1961,Hoc may 17,Tri tue nhan tao,2016,Le Thi Dao,297,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,591,Ebook
+TL1963,Bao mat mang va an ninh 19,He thong thong tin,2018,Nguyen Van Anh,225,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,652,PDF
+TL1970,He thong phan tan 25,An toan thong tin,2024,Pham Hoang Long,75,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,609,Ebook
+TL1975,Tri tue nhan tao 18,Tri tue nhan tao,2017,Bui Van Minh,74,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,476,Paperback
+TL1981,Quan tri kinh doanh 21,Kinh te,2020,Bui Van Minh,354,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,823,Ebook
+TL1982,Lap trinh web nang cao 21,Cong nghe phan mem,2020,Nguyen Van Anh,51,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,362,PDF
+TL1984,Thiet ke giao dien UI/UX 16,Cong nghe phan mem,2015,Hoang Van Chi,273,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,592,PDF
+TL1985,Ung dung IoT 24,Tri tue nhan tao,2023,Bui Van Minh,111,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,455,PDF
+TL1987,Van hoa doanh nghiep 24,Kinh te,2023,Bui Van Minh,199,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,971,PDF
+TL1988,Quan ly chuoi cung ung 23,He thong thong tin,2022,Nguyen Van Anh,377,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,323,Ebook
+TL1995,Thiet ke vi mach 16,Dien tu,2015,Tran Minh Duc,429,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,500,Paperback
+TL1999,Ung dung IoT 25,Tri tue nhan tao,2024,Bui Van Minh,108,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,300,Paperback
+TL2003,Quan tri nhan luc 23,Quan tri kinh doanh,2022,Tran Thi Bao,384,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,181,PDF
+TL2007,Thiet ke vi mach 17,Dien tu,2016,Tran Minh Duc,305,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,987,PDF
+TL2016,Ky thuat mang 19,He thong thong tin,2018,Tran Minh Duc,231,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,114,PDF
+TL2018,Lap trinh Python 16,Cong nghe phan mem,2015,Nguyen Van Anh,113,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,471,PDF
+TL2029,Thiet ke thuat toan 22,An toan thong tin,2021,Tran Thi Bao,346,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,440,Paperback
+TL2032,Kinh te so 19,Quan tri kinh doanh,2018,Nguyen Thi Tuyet,395,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,101,Paperback
+TL2046,Phat trien ung dung di dong 26,Cong nghe phan mem,2025,Tran Thi Bao,444,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,215,Paperback
+TL2047,Thiet ke vi mach 18,Dien tu,2017,Tran Minh Duc,451,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,180,Paperback
+TL2051,Kinh te so 20,Quan tri kinh doanh,2019,Hoang Van Chi,116,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,513,Paperback
+TL2087,Kinh te so 21,Quan tri kinh doanh,2020,Hoang Van Chi,330,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,193,Ebook
+TL2089,Hoc may 18,Tri tue nhan tao,2017,Le Thi Dao,409,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,926,Ebook
+TL2097,Quan tri kinh doanh 22,Kinh te,2021,Bui Van Minh,488,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,816,Ebook
+TL2098,Hoc may 19,Tri tue nhan tao,2018,Le Thi Dao,403,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,468,Ebook
+TL2101,Quan tri nhan luc 24,Kinh te,2023,Tran Minh Duc,274,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,496,Ebook
+TL2104,Lap trinh web nang cao 22,Cong nghe phan mem,2021,Nguyen Van Anh,422,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,947,Ebook
+TL2107,Quan ly chuoi cung ung 24,He thong thong tin,2023,Nguyen Van Anh,441,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,755,Paperback
+TL2110,He thong phan tan 26,An toan thong tin,2025,Pham Hoang Long,283,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,106,Ebook
+TL2114,An toan thong tin 26,An toan thong tin,2025,Tran Thi Bao,369,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,958,Paperback
+TL2115,Quan tri nhan luc 25,Kinh te,2024,Tran Minh Duc,213,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,809,Paperback
+TL2119,Marketing ky thuat so 22,Quan tri kinh doanh,2021,Tran Thi Bao,415,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,139,Paperback
+TL2120,Khoa hoc du lieu voi Python 21,Cong nghe phan mem,2020,Hoang Van Chi,377,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,376,Ebook
+TL2121,Hoc may 20,Tri tue nhan tao,2019,Le Thi Dao,185,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,137,Ebook
+TL2123,He thong phan tan 27,An toan thong tin,2026,Pham Hoang Long,247,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,226,Paperback
+TL2126,Tri tue nhan tao 19,Tri tue nhan tao,2018,Bui Van Minh,123,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,422,Ebook
+TL2128,Van hoa doanh nghiep 25,Kinh te,2024,Bui Van Minh,127,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,262,Ebook
+TL2133,Quan tri du lieu 20,He thong thong tin,2019,Tran Minh Duc,62,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,573,Ebook
+TL2136,An toan thong tin 27,An toan thong tin,2026,Tran Thi Bao,432,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,583,Ebook
+TL2138,Quan ly chuoi cung ung 25,He thong thong tin,2024,Nguyen Van Anh,292,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,324,Paperback
+TL2143,Lap trinh web nang cao 23,Cong nghe phan mem,2022,Nguyen Van Anh,261,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,372,PDF
+TL2144,He thong thong tin 13,He thong thong tin,2012,Tran Minh Duc,382,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,996,Paperback
+TL2145,Thiet ke thuat toan 23,An toan thong tin,2022,Tran Thi Bao,306,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,912,PDF
+TL2153,Van hoa doanh nghiep 26,Kinh te,2025,Bui Van Minh,297,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,645,PDF
+TL2154,Ung dung IoT 26,Tri tue nhan tao,2025,Bui Van Minh,417,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,977,PDF
+TL2163,Thiet ke giao dien UI/UX 17,Cong nghe phan mem,2016,Hoang Van Chi,192,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,353,Paperback
+TL2164,Quan tri kinh doanh 23,Kinh te,2022,Bui Van Minh,375,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,769,Ebook
+TL2166,He thong phan tan 28,An toan thong tin,2027,Pham Hoang Long,296,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,252,Ebook
+TL2168,Quan ly chuoi cung ung 26,He thong thong tin,2025,Nguyen Van Anh,176,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,171,PDF
+TL2170,An toan thong tin 28,An toan thong tin,2027,Tran Thi Bao,341,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,727,Ebook
+TL2172,Quan tri nhan luc 26,Kinh te,2025,Tran Minh Duc,392,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,893,Ebook
+TL2173,Thiet ke giao dien UI/UX 18,Cong nghe phan mem,2017,Hoang Van Chi,277,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,793,PDF
+TL2176,Thiet ke vi mach 19,Dien tu,2018,Tran Minh Duc,226,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,270,Paperback
+TL2179,Thiet ke giao dien UI/UX 19,Cong nghe phan mem,2018,Hoang Van Chi,213,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,748,Ebook
+TL2181,Thiet ke vi mach 20,Dien tu,2019,Tran Minh Duc,178,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,495,PDF
+TL2182,Thiet ke thuat toan 24,An toan thong tin,2023,Hoang Van Chi,459,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,398,PDF
+TL2189,Van hoa doanh nghiep 27,Kinh te,2026,Bui Van Minh,139,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,771,Ebook
+TL2195,Quan tri du lieu 21,He thong thong tin,2020,Tran Minh Duc,270,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,997,PDF
+TL2198,Bao mat mang va an ninh 20,He thong thong tin,2019,Nguyen Van Anh,272,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,479,PDF
+TL2201,Ky thuat mang 20,An toan thong tin,2019,Hoang Van Chi,262,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,319,Ebook
+TL2202,Ung dung IoT 27,Tri tue nhan tao,2026,Bui Van Minh,217,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,854,PDF
+TL2203,Quan tri nhan luc 27,Kinh te,2026,Tran Minh Duc,405,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,910,PDF
+TL2205,Lap trinh Python 17,Cong nghe phan mem,2016,Nguyen Van Anh,53,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,702,Paperback
+TL2218,Lap trinh Python 18,Cong nghe phan mem,2017,Tran Thi Bao,225,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,683,Ebook
+TL2221,Tri tue nhan tao 20,Tri tue nhan tao,2019,Bui Van Minh,146,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,623,PDF
+TL2230,Quan tri du lieu 22,He thong thong tin,2021,Tran Minh Duc,283,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,199,Paperback
+TL2235,He thong thong tin 14,He thong thong tin,2013,Nguyen Thi Tuyet,408,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,605,Paperback
+TL2239,Ung dung vi dieu khien 22,Dien tu,2021,Pham Hoang Long,413,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,402,PDF
+TL2245,He thong thong tin 15,He thong thong tin,2014,Nguyen Thi Tuyet,407,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,387,Paperback
+TL2255,He thong thong tin 16,He thong thong tin,2015,Nguyen Thi Tuyet,269,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,775,Ebook
+TL2257,Ung dung IoT 28,Tri tue nhan tao,2027,Bui Van Minh,241,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,154,Paperback
+TL2258,He thong phan tan 29,An toan thong tin,2028,Pham Hoang Long,335,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,812,Paperback
+TL2259,He thong thong tin 17,He thong thong tin,2016,Nguyen Thi Tuyet,359,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,335,Paperback
+TL2264,Quan ly chuoi cung ung 27,He thong thong tin,2026,Nguyen Van Anh,212,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,446,PDF
+TL2267,Van hoa doanh nghiep 28,Kinh te,2027,Bui Van Minh,465,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,327,PDF
+TL2269,Kinh te so 22,Quan tri kinh doanh,2021,Hoang Van Chi,361,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,368,Ebook
+TL2270,Kinh te so 23,Quan tri kinh doanh,2022,Hoang Van Chi,420,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,498,PDF
+TL2282,Bao mat mang va an ninh 21,Dien tu,2020,Pham Hoang Long,105,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,333,Ebook
+TL2283,Ung dung IoT 29,Tri tue nhan tao,2028,Bui Van Minh,485,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,240,PDF
+TL2291,Bao mat mang va an ninh 22,Dien tu,2021,Pham Hoang Long,407,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,656,Paperback
+TL2295,Lap trinh Python 19,Cong nghe phan mem,2018,Tran Thi Bao,185,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,409,Ebook
+TL2303,Bao mat mang va an ninh 23,Dien tu,2022,Pham Hoang Long,137,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,672,Ebook
+TL2306,Ky thuat mang 21,He thong thong tin,2020,Tran Minh Duc,270,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,783,PDF
+TL2309,Tri tue nhan tao 21,Tri tue nhan tao,2020,Bui Van Minh,498,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,304,Ebook
+TL2317,Tri tue nhan tao 22,Tri tue nhan tao,2021,Bui Van Minh,204,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,367,Paperback
+TL2319,Lap trinh web nang cao 24,Cong nghe phan mem,2023,Tran Thi Bao,368,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,243,Paperback
+TL2320,Ung dung vi dieu khien 23,Dien tu,2022,Pham Hoang Long,242,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,463,PDF
+TL2326,Phat trien ung dung di dong 27,Cong nghe phan mem,2026,Tran Thi Bao,488,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,567,Ebook
+TL2335,Quan tri nhan luc 28,Kinh te,2027,Tran Minh Duc,148,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,195,Ebook
+TL2338,Quan tri nhan luc 29,Kinh te,2028,Tran Minh Duc,423,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,423,PDF
+TL2346,Khoa hoc du lieu voi Python 22,Cong nghe phan mem,2021,Hoang Van Chi,338,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,411,Paperback
+TL2348,Thiet ke giao dien UI/UX 20,Cong nghe phan mem,2019,Hoang Van Chi,184,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,840,PDF
+TL2349,Van hoa doanh nghiep 29,Kinh te,2028,Bui Van Minh,282,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,663,Paperback
+TL2353,Hoc may 21,Tri tue nhan tao,2020,Le Thi Dao,163,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,862,Ebook
+TL2361,Van hoa doanh nghiep 30,Kinh te,2029,Bui Van Minh,213,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,265,Paperback
+TL2364,Quan tri nhan luc 30,Kinh te,2029,Tran Minh Duc,363,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,532,Ebook
+TL2365,Thiet ke thuat toan 25,An toan thong tin,2024,Hoang Van Chi,409,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,960,Paperback
+TL2369,Ky thuat mang 22,An toan thong tin,2021,Hoang Van Chi,126,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,696,PDF
+TL2383,An toan thong tin 29,An toan thong tin,2028,Tran Thi Bao,273,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,305,Paperback
+TL2384,Ky thuat mang 23,An toan thong tin,2022,Hoang Van Chi,107,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,115,Paperback
+TL2389,Thiet ke giao dien UI/UX 21,Cong nghe phan mem,2020,Hoang Van Chi,160,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,282,Ebook
+TL2409,Marketing ky thuat so 23,Quan tri kinh doanh,2022,Tran Thi Bao,230,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,632,Ebook
+TL2417,Quan tri nhan luc 31,Kinh te,2030,Tran Minh Duc,362,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,798,PDF
+TL2419,Marketing ky thuat so 24,Quan tri kinh doanh,2023,Tran Thi Bao,114,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,412,PDF
+TL2422,Lap trinh web nang cao 25,Cong nghe phan mem,2024,Tran Thi Bao,425,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,783,PDF
+TL2424,Van hoa doanh nghiep 31,Kinh te,2030,Bui Van Minh,111,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,914,PDF
+TL2426,Marketing ky thuat so 25,Quan tri kinh doanh,2024,Tran Thi Bao,187,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,797,Paperback
+TL2434,Van hoa doanh nghiep 32,Kinh te,2031,Bui Van Minh,174,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,768,PDF
+TL2436,Quan tri kinh doanh 24,Kinh te,2023,Bui Van Minh,482,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,382,Ebook
+TL2440,Lap trinh web nang cao 26,Cong nghe phan mem,2025,Tran Thi Bao,177,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,773,Ebook
+TL2443,Ung dung vi dieu khien 24,Dien tu,2023,Pham Hoang Long,206,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,218,Paperback
+TL2448,He thong phan tan 30,An toan thong tin,2029,Pham Hoang Long,441,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,655,Paperback
+TL2455,Thiet ke giao dien UI/UX 22,Cong nghe phan mem,2021,Hoang Van Chi,320,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,980,PDF
+TL2457,Thiet ke thuat toan 26,An toan thong tin,2025,Hoang Van Chi,120,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,454,PDF
+TL2460,Lap trinh Python 20,Cong nghe phan mem,2019,Tran Thi Bao,74,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,838,PDF
+TL2469,Phat trien ung dung di dong 28,Cong nghe phan mem,2027,Tran Thi Bao,355,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,401,PDF
+TL2473,Marketing ky thuat so 26,Quan tri kinh doanh,2025,Tran Thi Bao,78,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,968,Ebook
+TL2474,Quan ly chuoi cung ung 28,He thong thong tin,2027,Nguyen Van Anh,271,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,993,Paperback
+TL2481,Quan tri kinh doanh 25,Kinh te,2024,Bui Van Minh,199,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,732,Paperback
+TL2482,Hoc may 22,Tri tue nhan tao,2021,Le Thi Dao,443,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,232,PDF
+TL2487,Thiet ke vi mach 21,Dien tu,2020,Nguyen Thi Tuyet,219,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,926,Ebook
+TL2493,An toan thong tin 30,He thong thong tin,2029,Nguyen Van Anh,51,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,764,Ebook
+TL2503,Thiet ke vi mach 22,Dien tu,2021,Nguyen Thi Tuyet,235,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,986,Paperback
+TL2511,Phat trien ung dung di dong 29,Cong nghe phan mem,2028,Tran Thi Bao,104,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,322,Paperback
+TL2516,Hoc may 23,Tri tue nhan tao,2022,Le Thi Dao,209,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,197,PDF
+TL2519,Quan ly chuoi cung ung 29,He thong thong tin,2028,Nguyen Van Anh,381,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,985,Paperback
+TL2520,Thiet ke thuat toan 27,An toan thong tin,2026,Hoang Van Chi,239,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,144,Paperback
+TL2523,Quan tri kinh doanh 26,Kinh te,2025,Bui Van Minh,252,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,169,Paperback
+TL2531,Thiet ke giao dien UI/UX 23,Cong nghe phan mem,2022,Hoang Van Chi,419,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,773,Paperback
+TL2534,He thong phan tan 31,An toan thong tin,2030,Pham Hoang Long,142,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,607,PDF
+TL2538,An toan thong tin 31,He thong thong tin,2030,Nguyen Van Anh,69,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,677,Paperback
+TL2542,Ky thuat mang 24,An toan thong tin,2023,Hoang Van Chi,90,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,203,PDF
+TL2551,Quan tri nhan luc 32,Kinh te,2031,Tran Minh Duc,213,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,672,Ebook
+TL2552,Quan tri du lieu 23,He thong thong tin,2022,Tran Minh Duc,216,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,746,PDF
+TL2556,Lap trinh web nang cao 27,Cong nghe phan mem,2026,Tran Thi Bao,122,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,860,PDF
+TL2561,Tri tue nhan tao 23,Tri tue nhan tao,2022,Bui Van Minh,192,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,322,Ebook
+TL2583,Thiet ke thuat toan 28,An toan thong tin,2027,Hoang Van Chi,498,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,449,Ebook
+TL2593,Thiet ke giao dien UI/UX 24,Cong nghe phan mem,2023,Hoang Van Chi,384,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,204,PDF
+TL2594,Kinh te so 24,Quan tri kinh doanh,2023,Hoang Van Chi,199,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,930,PDF
+TL2595,He thong phan tan 32,An toan thong tin,2031,Pham Hoang Long,249,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,397,Paperback
+TL2596,Lap trinh Python 21,Cong nghe phan mem,2020,Tran Thi Bao,279,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,834,Ebook
+TL2599,Ky thuat mang 25,An toan thong tin,2024,Hoang Van Chi,384,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,734,PDF
+TL2600,He thong thong tin 18,He thong thong tin,2017,Nguyen Thi Tuyet,156,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,103,Ebook
+TL2606,Bao mat mang va an ninh 24,Dien tu,2023,Pham Hoang Long,60,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,155,Paperback
+TL2607,Khoa hoc du lieu voi Python 23,Cong nghe phan mem,2022,Hoang Van Chi,142,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,985,Paperback
+TL2615,Quan tri nhan luc 33,Kinh te,2032,Tran Minh Duc,225,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,481,PDF
+TL2620,Van hoa doanh nghiep 33,Kinh te,2032,Bui Van Minh,167,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,135,PDF
+TL2630,Ung dung IoT 30,Tri tue nhan tao,2029,Bui Van Minh,67,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,991,Ebook
+TL2631,Quan ly chuoi cung ung 30,He thong thong tin,2029,Nguyen Van Anh,299,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,186,Paperback
+TL2633,Quan tri kinh doanh 27,Kinh te,2026,Bui Van Minh,58,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,757,PDF
+TL2638,He thong phan tan 33,An toan thong tin,2032,Pham Hoang Long,90,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,862,Ebook
+TL2640,Lap trinh Python 22,Cong nghe phan mem,2021,Tran Thi Bao,373,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,703,PDF
+TL2665,Quan tri kinh doanh 28,Kinh te,2027,Bui Van Minh,107,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,973,PDF
+TL2666,Ung dung vi dieu khien 25,Dien tu,2024,Pham Hoang Long,64,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,665,PDF
+TL2674,Thiet ke vi mach 23,Dien tu,2022,Nguyen Thi Tuyet,204,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,698,Paperback
+TL2679,Thiet ke vi mach 24,Dien tu,2023,Nguyen Thi Tuyet,456,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,292,PDF
+TL2683,He thong phan tan 34,An toan thong tin,2033,Pham Hoang Long,268,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,528,PDF
+TL2687,Lap trinh web nang cao 28,Cong nghe phan mem,2027,Nguyen Van Anh,103,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,234,Ebook
+TL2692,Kinh te so 25,Quan tri kinh doanh,2024,Hoang Van Chi,116,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,838,Ebook
+TL2697,Quan tri kinh doanh 29,Kinh te,2028,Bui Van Minh,69,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,300,PDF
+TL2702,Quan tri nhan luc 34,Kinh te,2033,Tran Minh Duc,403,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,768,Ebook
+TL2706,Ky thuat mang 26,An toan thong tin,2025,Hoang Van Chi,159,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,918,Ebook
+TL2710,Hoc may 24,Tri tue nhan tao,2023,Le Thi Dao,222,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,227,Paperback
+TL2711,Thiet ke vi mach 25,Dien tu,2024,Nguyen Thi Tuyet,292,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,680,Ebook
+TL2715,Bao mat mang va an ninh 25,Dien tu,2024,Pham Hoang Long,280,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,438,Paperback
+TL2723,Hoc may 25,Tri tue nhan tao,2024,Le Thi Dao,433,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,895,Paperback
+TL2724,Lap trinh web nang cao 29,Cong nghe phan mem,2028,Nguyen Van Anh,242,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,893,Paperback
+TL2725,Ung dung IoT 31,Tri tue nhan tao,2030,Bui Van Minh,65,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,206,Ebook
+TL2732,Ky thuat mang 27,An toan thong tin,2026,Hoang Van Chi,362,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,908,Ebook
+TL2733,Hoc may 26,Tri tue nhan tao,2025,Le Thi Dao,188,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,368,Ebook
+TL2738,Quan tri nhan luc 35,Kinh te,2034,Tran Minh Duc,258,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,816,Ebook
+TL2747,Khoa hoc du lieu voi Python 24,Cong nghe phan mem,2023,Hoang Van Chi,170,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,208,PDF
+TL2754,Kinh te so 26,Quan tri kinh doanh,2025,Hoang Van Chi,248,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,910,PDF
+TL2757,He thong thong tin 19,He thong thong tin,2018,Tran Minh Duc,460,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,856,Paperback
+TL2765,Khoa hoc du lieu voi Python 25,Cong nghe phan mem,2024,Hoang Van Chi,63,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,384,Ebook
+TL2772,Kinh te so 27,Quan tri kinh doanh,2026,Hoang Van Chi,304,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,663,Paperback
+TL2777,Lap trinh web nang cao 30,Cong nghe phan mem,2029,Nguyen Van Anh,488,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,401,Paperback
+TL2786,Quan tri du lieu 24,He thong thong tin,2023,Tran Minh Duc,333,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,513,PDF
+TL2790,Lap trinh Python 23,Cong nghe phan mem,2022,Tran Thi Bao,492,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,560,Paperback
+TL2792,Thiet ke thuat toan 29,An toan thong tin,2028,Hoang Van Chi,469,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,520,Paperback
+TL2793,He thong phan tan 35,An toan thong tin,2034,Pham Hoang Long,204,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,466,Ebook
+TL2797,Phat trien ung dung di dong 30,Cong nghe phan mem,2029,Tran Thi Bao,69,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,371,PDF
+TL2798,Ky thuat mang 28,An toan thong tin,2027,Hoang Van Chi,110,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,609,PDF
+TL2800,Marketing ky thuat so 27,Kinh te,2026,Bui Van Minh,87,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,302,PDF
+TL2802,An toan thong tin 32,An toan thong tin,2031,Tran Thi Bao,335,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,331,Paperback
+TL2807,Khoa hoc du lieu voi Python 26,Cong nghe phan mem,2025,Hoang Van Chi,130,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,532,PDF
+TL2813,Hoc may 27,Tri tue nhan tao,2026,Le Thi Dao,401,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,713,Paperback
+TL2815,He thong phan tan 36,An toan thong tin,2035,Pham Hoang Long,186,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,492,Ebook
+TL2822,Thiet ke vi mach 26,Dien tu,2025,Nguyen Thi Tuyet,335,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,840,Ebook
+TL2837,Kinh te so 28,Quan tri kinh doanh,2027,Hoang Van Chi,431,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Quan tri kinh doanh,181,Ebook
+TL2843,Quan ly chuoi cung ung 31,He thong thong tin,2030,Nguyen Van Anh,408,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,500,Paperback
+TL2844,Tri tue nhan tao 24,Tri tue nhan tao,2023,Bui Van Minh,363,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,169,PDF
+TL2852,Quan ly chuoi cung ung 32,He thong thong tin,2031,Nguyen Van Anh,312,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,144,Ebook
+TL2863,Quan tri du lieu 25,He thong thong tin,2024,Tran Minh Duc,172,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,427,Paperback
+TL2869,Tri tue nhan tao 25,Tri tue nhan tao,2024,Bui Van Minh,96,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,664,Ebook
+TL2878,Van hoa doanh nghiep 34,Kinh te,2033,Bui Van Minh,347,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,193,Paperback
+TL2882,He thong phan tan 37,An toan thong tin,2036,Pham Hoang Long,261,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,528,Ebook
+TL2886,Quan tri kinh doanh 30,Kinh te,2029,Bui Van Minh,480,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,770,Paperback
+TL2893,Thiet ke thuat toan 30,An toan thong tin,2029,Tran Thi Bao,181,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,529,PDF
+TL2899,Ung dung vi dieu khien 26,Dien tu,2025,Pham Hoang Long,438,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,132,PDF
+TL2906,Hoc may 28,Tri tue nhan tao,2027,Le Thi Dao,270,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,369,PDF
+TL2912,Thiet ke thuat toan 31,An toan thong tin,2030,Tran Thi Bao,362,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh An toan thong tin,605,Paperback
+TL2914,Quan tri nhan luc 36,Kinh te,2035,Tran Minh Duc,221,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,153,PDF
+TL2920,Khoa hoc du lieu voi Python 27,Cong nghe phan mem,2026,Hoang Van Chi,211,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,947,Paperback
+TL2926,Bao mat mang va an ninh 26,Dien tu,2025,Pham Hoang Long,168,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,486,Paperback
+TL2929,Lap trinh Python 24,Cong nghe phan mem,2023,Tran Thi Bao,364,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,399,Ebook
+TL2930,Quan tri kinh doanh 31,Kinh te,2030,Bui Van Minh,423,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,687,Paperback
+TL2937,Marketing ky thuat so 28,Kinh te,2027,Bui Van Minh,364,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,306,Ebook
+TL2942,Marketing ky thuat so 29,Kinh te,2028,Bui Van Minh,465,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,150,Ebook
+TL2950,Quan tri nhan luc 37,Kinh te,2036,Tran Minh Duc,161,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,138,Paperback
+TL2951,Phat trien ung dung di dong 31,Cong nghe phan mem,2030,Tran Thi Bao,52,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,370,Paperback
+TL2953,Quan tri du lieu 26,He thong thong tin,2025,Tran Minh Duc,261,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,472,Paperback
+TL2965,Lap trinh web nang cao 31,Cong nghe phan mem,2030,Nguyen Van Anh,271,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,128,PDF
+TL2969,Thiet ke vi mach 27,Dien tu,2026,Nguyen Thi Tuyet,176,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,878,Paperback
+TL2971,Marketing ky thuat so 30,Kinh te,2029,Bui Van Minh,277,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,658,Paperback
+TL2972,Quan tri kinh doanh 32,Kinh te,2031,Bui Van Minh,109,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,832,PDF
+TL2977,Lap trinh Python 25,Cong nghe phan mem,2024,Tran Thi Bao,468,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,131,Paperback
+TL2983,Quan ly chuoi cung ung 33,He thong thong tin,2032,Nguyen Van Anh,335,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,227,Ebook
+TL2984,Marketing ky thuat so 31,Kinh te,2030,Bui Van Minh,392,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,356,PDF
+TL2988,He thong thong tin 20,He thong thong tin,2019,Nguyen Thi Tuyet,324,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh He thong thong tin,162,Paperback
+TL2990,Ung dung IoT 32,Tri tue nhan tao,2031,Bui Van Minh,247,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,231,Paperback
+TL2991,Van hoa doanh nghiep 35,Kinh te,2034,Bui Van Minh,122,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Kinh te,180,PDF
+TL2993,Khoa hoc du lieu voi Python 28,Cong nghe phan mem,2027,Hoang Van Chi,319,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,570,Ebook
+TL2994,Bao mat mang va an ninh 27,Dien tu,2026,Pham Hoang Long,480,Tieng Viet,Tai lieu nay rat huu ich cho sinh vien nganh Dien tu,198,Ebook
+TL2995,Lap trinh web nang cao 32,Cong nghe phan mem,2031,Nguyen Van Anh,441,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Cong nghe phan mem,335,Paperback
+TL2996,Hoc may 29,Tri tue nhan tao,2028,Le Thi Dao,102,Tieng Anh,Tai lieu nay rat huu ich cho sinh vien nganh Tri tue nhan tao,257,Ebook
